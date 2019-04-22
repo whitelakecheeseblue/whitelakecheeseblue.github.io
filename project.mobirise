@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WhiteLakeBlue",
-    "currentPage": "GOATS-CHEESES.html",
+    "currentPage": "COW-CHEESES.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -4225,7 +4225,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -4233,7 +4233,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -4279,74 +4279,6 @@
               "color": "#ffffff"
             }
           }
-        },
-        {
-          "_inherit": "gallery1",
-          "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": 1,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "filterBgColor": true,
-            "bgColor": "#001550",
-            "showText": false,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/table.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              }
-            ]
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "articleLayout": false,
-          "allItem": "All",
-          "_name": "gallery3",
-          "_anchor": "gallery3-5a"
         },
         {
           "_params": {
@@ -4418,7 +4350,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -4426,7 +4358,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -5922,7 +5854,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -5930,7 +5862,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -5956,7 +5888,7 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"BAGBOROUGH-BRIE.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE INFORMATION</a>",
           "button2": "<a data-app-btn=\"true\" href=\"MORN-DEW .html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE INFORMATION</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE INFORMAION</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE INFORMATION</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE INFORMATION</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -6013,10 +5945,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -8191,7 +8123,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -8199,7 +8131,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -8315,7 +8247,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -8323,7 +8255,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -8441,7 +8373,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -8449,7 +8381,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -8567,7 +8499,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -8575,7 +8507,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
