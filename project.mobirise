@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WhiteLakeBlue",
-    "currentPage": "index.html",
+    "currentPage": "GOATS-CHEESES.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -21,20 +21,20 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#544d4b",
         "#020641",
         "#001550",
         "#515151",
         "#494949",
         "#797979",
-        "#0079ff",
-        "#2e2e2e"
+        "#0079ff"
       ]
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.8",
-    "uniqCompNum": 187,
-    "versionPublish": "4.9.3",
+    "uniqCompNum": 193,
+    "versionPublish": "4.9.5",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
@@ -64,7 +64,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -90,10 +90,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -173,7 +173,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.4"
           },
-          "title": "Winners of The British Cheese Awards 2018",
+          "title": "Winners of <br>The British Cheese Awards 2017 &amp; 2018",
           "text": "Based in the heart of the Cheddar Country, White Lake Cheese was established in 2004 by Peter Humphries and Roger Longman. Over a decade later, we are famed for our extraordinary range of goats’, sheeps’ and cows’ milk cheeses.",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"GOATS-CHEESES.html\" data-toolbar=\"-mbrBtnMove\">GOAT CHEESES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"COW-CHEESES.html\" data-toolbar=\"-mbrBtnMove\">COW CHEESES&nbsp;</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"SHEEP-CHEESES.html\" data-toolbar=\"-mbrBtnMove\">SHEEP CHEESES</a> ",
           "_tags": [
@@ -334,7 +334,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
@@ -463,7 +463,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -581,7 +581,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
@@ -648,10 +648,10 @@
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": "0",
-            "bgColor": "#544d4b"
+            "bgColor": "#001550"
           },
           "title": "KATHERINE",
           "meta": "",
@@ -671,7 +671,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -766,7 +766,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "filterBgColor": false,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "showText": false,
             "filter": false,
             "images": [
@@ -799,8 +799,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0114-rachels-1000x669.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0114-rachels-1000x669-800x535.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-93-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-93-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -860,7 +860,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -978,7 +978,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
@@ -1045,10 +1045,10 @@
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": "0",
-            "bgColor": "#544d4b"
+            "bgColor": "#001550"
           },
           "title": "TRICKLE",
           "meta": "",
@@ -1068,7 +1068,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1163,7 +1163,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "filterBgColor": false,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "showText": false,
             "filter": false,
             "images": [
@@ -1257,7 +1257,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1375,7 +1375,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
@@ -1445,7 +1445,7 @@
             "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": "0",
-            "bgColor": "#544d4b"
+            "bgColor": "#001550"
           },
           "title": "GOAT CURD",
           "meta": "",
@@ -1465,7 +1465,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1560,7 +1560,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "filterBgColor": false,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "showText": false,
             "filter": false,
             "images": [
@@ -1654,7 +1654,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1772,7 +1772,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
@@ -1839,10 +1839,10 @@
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": "0",
-            "bgColor": "#544d4b"
+            "bgColor": "#001550"
           },
           "title": "LILLY / LITTLE LILLY",
           "meta": "",
@@ -1862,7 +1862,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1957,7 +1957,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "filterBgColor": false,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "showText": false,
             "filter": false,
             "images": [
@@ -2023,7 +2023,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#a38f84"
+            "bgColor": "#001550"
           },
           "text": "<p><b style=\"font-size: 1.07rem;\">Product Information&nbsp;</b><br></p><p>Milk : Goat \n</p><p>Unpateurised : Yes (Thermised) \n</p><p>Rennet : Vegetarian \n</p><p>Style : Soft \n</p><p>Weight : 125g / 230g \n</p><p>Origin: Somerset</p>",
           "_tags": [
@@ -2050,7 +2050,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
@@ -2117,10 +2117,10 @@
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": "0",
-            "bgColor": "#544d4b"
+            "bgColor": "#001550"
           },
           "title": "WHITE WOOD",
           "meta": "",
@@ -2140,7 +2140,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -2235,7 +2235,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "filterBgColor": false,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "showText": false,
             "filter": false,
             "images": [
@@ -2301,7 +2301,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#a38f84"
+            "bgColor": "#001550"
           },
           "text": "<p><b>Product Information\n</b></p><p>Milk : Goat \n</p><p>Unpateurised : Yes (Thermised) \n</p><p>Rennet : Vegetarian \n</p><p>Style : Soft \n</p><p>Weight : 215g \n</p><p>Origin: Somerset</p>",
           "_tags": [
@@ -2328,7 +2328,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
@@ -2395,10 +2395,10 @@
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": "0",
-            "bgColor": "#544d4b"
+            "bgColor": "#001550"
           },
           "title": "EVE",
           "meta": "",
@@ -2418,7 +2418,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -2513,7 +2513,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "filterBgColor": false,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "showText": false,
             "filter": false,
             "images": [
@@ -2607,7 +2607,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2725,7 +2725,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
@@ -2792,10 +2792,10 @@
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": "0",
-            "bgColor": "#544d4b"
+            "bgColor": "#001550"
           },
           "title": "TOR",
           "meta": "",
@@ -2815,7 +2815,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -2910,7 +2910,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "filterBgColor": false,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "showText": false,
             "filter": false,
             "images": [
@@ -2978,8 +2978,8 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#f2f2f2",
-              "border-color": "#f2f2f2"
+              "background-color": "#ffffff",
+              "border-color": "#ffffff"
             },
             "P": {
               "text-align": "center",
@@ -2996,7 +2996,7 @@
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false,
-            "iconsBgColor": "#f2f2f2",
+            "iconsBgColor": "#ffffff",
             "paddingTop": "1",
             "paddingBottom": "1",
             "columns": "2",
@@ -3004,7 +3004,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3122,7 +3122,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
@@ -3189,10 +3189,10 @@
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": "0",
-            "bgColor": "#544d4b"
+            "bgColor": "#001550"
           },
           "title": "DRIFTWOOD",
           "meta": "",
@@ -3212,7 +3212,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -3307,7 +3307,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "filterBgColor": false,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "showText": false,
             "filter": false,
             "images": [
@@ -3401,7 +3401,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3519,7 +3519,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
@@ -3586,10 +3586,10 @@
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": "0",
-            "bgColor": "#544d4b"
+            "bgColor": "#001550"
           },
           "title": "WHITE HEART",
           "meta": "",
@@ -3609,7 +3609,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -3704,7 +3704,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "filterBgColor": false,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "showText": false,
             "filter": false,
             "images": [
@@ -3770,7 +3770,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#a38f84"
+            "bgColor": "#001550"
           },
           "text": "<p><b>Product Information\n</b></p><p>Milk : Goat \n</p><p>Unpateurised : Yes (Thermised) \n</p><p>Rennet : Vegetarian \n</p><p>Style : Soft \n</p><p>Weight : 220g \n</p><p>Origin: Somerset</p>",
           "_tags": [
@@ -3797,7 +3797,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
@@ -3864,10 +3864,10 @@
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": "0",
-            "bgColor": "#544d4b"
+            "bgColor": "#001550"
           },
           "title": "WHITE NANCY / LONG BOW \n",
           "meta": "",
@@ -3887,7 +3887,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -3982,7 +3982,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "filterBgColor": false,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "showText": false,
             "filter": false,
             "images": [
@@ -4048,7 +4048,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#a38f84"
+            "bgColor": "#001550"
           },
           "text": "<p><b>Product Information\n</b></p><p><b>\n</b><span style=\"font-size: 1.07rem;\">Milk : Goat &nbsp;</span></p><p>Unpateurised : Yes (Thermised) \n</p><p>Rennet : Vegetarian \n</p><p>Style : Soft \n</p><p>Weight : 500g (White Nancy) / 800g (Long Bow) \n</p><p>Origin: Somerset</p>",
           "_tags": [
@@ -4075,7 +4075,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
@@ -4214,7 +4214,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-295-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4225,7 +4225,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -4233,7 +4233,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -4245,7 +4245,7 @@
           "title2": "SHEEP RUSTLER",
           "subtitle2": "INFORMATION",
           "caption2": "A Ewes milk version of our well known Rachel cheese. \n<br>This is a Semi hard Cheese aged to around 3 months old. \n<br>This cheese has a colourful orange/brown rind. \n<br>This cheese has a medium, mellow, nutty flavour with hints of caramel. \n<br>Supreme Champion of the <br>British Cheese Awards 2018. \n<br>Made with unpasteurised milk and vegetarian rennet.&nbsp;",
-          "title3": "2 Kg SHEEP RUSTLER",
+          "title3": "English Pecorino",
           "subtitle3": "INFORMATION",
           "caption3": "description, age for 5 months",
           "title4": "BURROW MUMP",
@@ -4279,6 +4279,74 @@
               "color": "#ffffff"
             }
           }
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#001550",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/table.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-5a"
         },
         {
           "_params": {
@@ -4350,7 +4418,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -4358,7 +4426,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -4415,7 +4483,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -4441,10 +4509,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -4514,7 +4582,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
@@ -4561,136 +4629,6 @@
               "color": "#ffffff"
             }
           }
-        },
-        {
-          "_inherit": "features4",
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false,
-            "iconsBgColor": "@primaryColor",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "phone",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "edit",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media5": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "media6": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".card-subtitle": {
-              "color": "#bcbcbc"
-            },
-            ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_name": "features7",
-          "_anchor": "features7-55"
         }
       ]
     },
@@ -4711,10 +4649,10 @@
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": "0",
-            "bgColor": "#544d4b"
+            "bgColor": "#001550"
           },
           "title": "PAVÉ COBBLE",
           "meta": "",
@@ -4734,7 +4672,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -4760,10 +4698,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -4829,7 +4767,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "filterBgColor": false,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "showText": false,
             "filter": false,
             "images": [
@@ -4923,7 +4861,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -5003,7 +4941,7 @@
           "caption1": "Milk : Sheep\n<br>Unpateurised : Yes (Thermised)\n<br>Rennet : Vegetarian\n<br>Style : Soft\n<br>Weight : 200g\n<br>Origin: Somerset<br>",
           "title2": "Awards",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<br>British Cheese Awards Supreme Champion,\n<br>Best Fresh Cheese, Best English Cheese &amp; Best Specialist Cheese Maker<br>",
+          "caption2": "<br>2017 - British Cheese Awards Supreme Champion,\n<br>Best Fresh Cheese, Best English Cheese &amp; Best Specialist Cheese Maker<br>",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -5041,7 +4979,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
@@ -5108,10 +5046,10 @@
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": "0",
-            "bgColor": "#544d4b"
+            "bgColor": "#001550"
           },
           "title": "LITTLE SHE \n",
           "meta": "",
@@ -5131,7 +5069,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -5226,7 +5164,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "filterBgColor": false,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "showText": false,
             "filter": false,
             "images": [
@@ -5320,7 +5258,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -5438,7 +5376,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
@@ -5505,10 +5443,10 @@
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": "0",
-            "bgColor": "#544d4b"
+            "bgColor": "#001550"
           },
           "title": "SHEEP RUSTLER \n",
           "meta": "",
@@ -5528,7 +5466,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -5623,7 +5561,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "filterBgColor": false,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "showText": false,
             "filter": false,
             "images": [
@@ -5717,7 +5655,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -5797,7 +5735,7 @@
           "caption1": "Milk : Sheep\n<br>Unpateurised : Yes ( Thermised )\n<br>Rennet : Vegetarian\n<br>Style : Semi-Hard, Washed Rind (Brine)\n<br>Weight : Approx 750g\n<br>Origin: Somerset<br>",
           "title2": "Awards",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "British Cheese Awards 2017 - Best Modern British Cheese\n<br>World Cheese Awards 2015 – Bronze<br>",
+          "caption2": "British Cheese Awards 2018 - Supreme Champion<br>British Cheese Awards 2017 - Best Modern British Cheese\n<br>World Cheese Awards 2015 – Bronze<br>",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -5835,7 +5773,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
@@ -5940,7 +5878,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-319-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5951,7 +5889,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-263-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5962,7 +5900,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-268-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5973,7 +5911,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/solstice-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5984,7 +5922,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -5992,21 +5930,21 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
             }
           },
-          "title1": "BRUTON BRIE\n",
+          "title1": "BAGBOROUGH BRIE\n",
           "subtitle1": "INFORMATION",
           "caption1": "This cheese is an excellent example of a mild and creamy brie,\nmade from <br>Guernsey Cow's milk. \n<br>Made with pasteurised milk and vegetarian rennet.&nbsp;<br>",
           "title2": "MORN DEW\n",
           "subtitle2": "INFORMATION",
-          "caption2": "Made from Guernsey Cow's milk providing a stunning\ngolden colour! <br>This cheese is mild with a delicate creamy flavour and a soft,\nspongy texture.\n<br>Made with pasteurised milk and vegetarian rennet.&nbsp;<br>",
+          "caption2": "Made from Guernsey Cow's milk providing a stunning\ngolden colour! <br>This cheese is mild with a delicate creamy flavour and a soft,\n<br>spongy texture.\n<br>Made with pasteurised milk and vegetarian rennet.&nbsp;<br>",
           "title3": "MINI MORN DEW",
           "subtitle3": "INFORMATION",
-          "caption3": "Description Here",
+          "caption3": "As the name suggests, a smaller version of our delightful Morn Dew",
           "title4": "SOMERSET SOLSTICE",
           "subtitle4": "INFORMATION",
           "caption4": "Description",
@@ -6049,7 +5987,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -6148,7 +6086,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
@@ -6215,10 +6153,10 @@
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": "0",
-            "bgColor": "#544d4b"
+            "bgColor": "#001550"
           },
           "title": "BAGBOROUGH BRIE",
           "meta": "",
@@ -6238,7 +6176,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -6333,7 +6271,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "filterBgColor": false,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "showText": false,
             "filter": false,
             "images": [
@@ -6378,8 +6316,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/whitelakecheese-12-2000x1339.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/whitelakecheese-12-2000x1339-800x536.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-448-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-448-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -6399,7 +6337,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#a38f84"
+            "bgColor": "#001550"
           },
           "text": "<p><b>Product Information\n</b></p><p>Milk : Cow, Guernsey \n</p><p>Unpateurised : No (Pasteurised) \n</p><p>Rennet : Vegetarian \n</p><p>Style : Soft \n</p><p>Weight : 220g \n</p><p>Origin: Somerset</p>",
           "_tags": [
@@ -6426,7 +6364,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
@@ -6493,12 +6431,12 @@
             }
           },
           "_params": {
-            "showMeta": true,
+            "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": "0",
-            "bgColor": "#544d4b"
+            "bgColor": "#001550"
           },
-          "title": "MORN DEW \n",
+          "title": "MORN DEW/MINI MORN DEW",
           "meta": "",
           "_tags": [
             "Theme"
@@ -6516,7 +6454,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -6611,7 +6549,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "filterBgColor": false,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "showText": false,
             "filter": false,
             "images": [
@@ -6644,12 +6582,24 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/rachels-1000x714.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rachels-1000x714-800x543.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-255-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-255-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-70-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-70-2000x1333-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -6693,7 +6643,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#a38f84",
+            "bgColor": "#001550",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -6811,7 +6761,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
@@ -6904,7 +6854,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -7047,7 +6997,7 @@
             }
           },
           "title": "<br>FIND US AT A MARKET<br>",
-          "text": "The reason why we love making cheese at White Lake comes down to all you cheeselovers out there. Roger, Pete and the team can regularly be found at a variety of markets in the UK, chatting cheese and listening to our customers thoughts. If you would like to come meet the guys to sample some cheese, or have any ideas for what the next White Lake masterpiece could be, please come pay us a visit!<br>",
+          "text": "The reason why we love making cheese at White Lake comes down to all you cheeselovers out there. We can regularly be found at a variety of markets in the UK, chatting cheese and listening to our customers thoughts. If you would like to come meet the guys to sample some cheese, or have any ideas for what the next White Lake masterpiece could be, please come pay us a visit!<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -7113,7 +7063,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
@@ -7203,7 +7153,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -7510,7 +7460,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
@@ -7577,7 +7527,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -7844,7 +7794,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
@@ -7993,7 +7943,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -8092,7 +8042,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
@@ -8208,7 +8158,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-237-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8241,7 +8191,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -8249,7 +8199,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -8354,7 +8304,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-0194-2-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -8365,7 +8315,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -8373,7 +8323,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -8491,7 +8441,7 @@
           },
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -8499,7 +8449,7 @@
           },
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -8548,6 +8498,132 @@
           }
         },
         {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#001550",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dsc-313-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "WHITE-HEART .html",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dsc-198-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "WHITE-NANCY-LONG-BOW .html",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dsc-203-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "WHITE-NANCY-LONG-BOW .html",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/goat-curd-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "GOAT-CURD.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "MICHAEL'S MOUNT",
+          "subtitle1": "INFORMATION",
+          "caption1": "<p><span style=\"background-color: initial; font-size: 1rem;\">Made with Raw&nbsp;</span><span style=\"background-color: initial; font-size: 1rem;\">milk and vegetarian rennet.&nbsp;</span><br></p>",
+          "title2": "STITCH IN THYME",
+          "subtitle2": "INFORMATION",
+          "caption2": "Unpasteurised goats cheese rolled in thyme.&nbsp;<b><br></b>",
+          "title3": "LAVENDER HILL LOG",
+          "subtitle3": "INFORMATION",
+          "caption3": "Unpasteurised goats cheese rolled in lavender.",
+          "title4": "GOAT CURD",
+          "subtitle4": "INFORMATION",
+          "caption4": "This is an extremely versatile, light, clean and fresh flavoured cheese becoming increasingly popular in the catering trade for its many uses.&nbsp;",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"WHITE-HEART .html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE INFORMATION</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"WHITE-NANCY-LONG-BOW .html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE INFORMATION</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"WHITE-NANCY-LONG-BOW .html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE INFORMATION</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"GOAT-CURD.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE INFORMATION</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#ffffff"
+            },
+            "H5": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features3-5c"
+        },
+        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -8557,7 +8633,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#020641",
-            "fontSize": "0.75",
+            "fontSize": "0.7",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -8583,10 +8659,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.7rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.758rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -8656,7 +8732,7 @@
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact us</a>",
           "text1": "<br><strong><br></strong><strong>Contacts</strong><br>\nEmail: info@whitelake.co.uk<br>Tel: 01749 831527<br><br>© All Rights Reserved To Nossidda Productions<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"https://www.facebook.com/whitelakecheese/\" target=\"_blank\">Facebook</a></li><li><a href=\"https://twitter.com/whitelakecheese\" target=\"_blank\">Twitter</a></li><li><a href=\"https://www.instagram.com/whitelakecheese/\">Instagram</a></li></ul>",
           "form": {
