@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WhiteLakeBlue",
-    "currentPage": "index.html",
+    "currentPage": "COW-CHEESES.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -4220,13 +4220,13 @@
           "caption1": "Moulded into a truncated pyramid, the paste is springy and soft,\nbecoming meltingly creamy with age.\n<br>With a light coating of ash, the geotrichum and glaucum moulds grow on the rind developing silvery grey rind at first,&nbsp;then becoming dominated <br>by blues and greens.\t\n<br>On first taste, notes of sweet cream emerge, followed by nutty flavours and a slight lanolin gaminess that deepens the complexity with the age of the cheese.\n<br>Supreme Champion of the <br>British Cheese Awards 2017.\n<br>Made with unpasteurised milk and vegetarian rennet.&nbsp;<br>",
           "title2": "SHEEP RUSTLER",
           "subtitle2": "INFORMATION",
-          "caption2": "A Ewes milk version of our well known Rachel cheese. \n<br>This is a Semi hard Cheese aged to around 3 months old. \n<br>This cheese has a colourful orange/brown rind. \n<br>This cheese has a medium, mellow, nutty flavour with hints of caramel. \n<br>Supreme Champion of the <br>British Cheese Awards 2018. \n<br>Made with unpasteurised milk and vegetarian rennet.&nbsp;",
+          "caption2": "A Ewes milk version of our well <br>known Rachel cheese. \n<br>This is a Semi hard Cheese aged to around 3 months old. \n<br>This cheese has a colourful orange/brown rind. \n<br>This cheese has a medium, mellow, nutty flavour with hints of caramel. \n<br>Supreme Champion of the <br>British Cheese Awards 2018. \n<br>Made with unpasteurised milk and vegetarian rennet.&nbsp;",
           "title3": "English Pecorino",
           "subtitle3": "INFORMATION",
-          "caption3": "description, age for 5 months",
+          "caption3": "Matured for 5 months, a semi-hard ewes’ cheese with a deep well-rounded nutty flavour and a hint of caramel.\n<br>\n<br>A mature version of our Sheep Rustler Cheese.",
           "title4": "BURROW MUMP",
           "subtitle4": "INFORMATION",
-          "caption4": "Burrow Mump description.<b><br></b>",
+          "caption4": "This Semi hard Cheese is aged to around 8 weeks, has a\nclose, firm texture and is washed in Somerset Cider Brandy.\n<br>\n<br>Named after a local land mark which rises above the Somerset levels, as the does the sweet, nutty flavours\n<br>of this cheese which continue to delicately rise on the palate.\n<br>\n<br>Made with unpasteurised milk and vegetarian rennet<b><br></b>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -4342,13 +4342,13 @@
           },
           "title1": "SHEEP CURD",
           "subtitle1": "INFORMATION",
-          "caption1": "Sheep Curd description<br>",
+          "caption1": "This is a soft fresh cheese made from sheeps' milk with a creamy,\nsavoury flavour.\n<br>\n<br>Made with unpasteurised milk and vegetarian rennet.<br>",
           "title2": "LITTLE SHE\r",
           "subtitle2": "INFORMATION",
           "caption2": "This is a soft white cheese with a bloomy rind. Made in the style of a brie or Camembert\nthis cheese will soften as it ripens. This cheese has a mild flavour becoming more pronounced and the rind can become more colourful as it ages.\n<br>Made using unpasteurised milk and vegetarian rennet&nbsp;<br>",
           "title3": "FETISH",
           "subtitle3": "INFORMATION",
-          "caption3": "Fetish description here",
+          "caption3": "This is our take on the well-known Greek cheese, matured in brine for around 3 to 4 months.\n<br>\n<br>This cheese has a nice rounded flavour.\n<br>This cheese is sold in its own brine.\n<br>\n<br>Made with unpasteurised milk and vegetarian rennet.",
           "title4": "15kg SHEEP RUSTLER",
           "subtitle4": "INFORMATION",
           "caption4": "New Cheese<b></b>",
@@ -4417,10 +4417,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -5846,16 +5846,16 @@
           },
           "title1": "BAGBOROUGH BRIE\n",
           "subtitle1": "INFORMATION",
-          "caption1": "This cheese is an excellent example of a mild and creamy brie,\nmade from <br>Guernsey Cow's milk. \n<br>Made with pasteurised milk and vegetarian rennet.&nbsp;<br>",
+          "caption1": "This cheese is an excellent example of a mild and creamy brie,\nmade from <br>Guernsey Cows' milk. \n<br>Made with pasteurised milk and vegetarian rennet.&nbsp;<br>",
           "title2": "MORN DEW\n",
           "subtitle2": "INFORMATION",
-          "caption2": "Made from Guernsey Cow's milk providing a stunning\ngolden colour! <br>This cheese is mild with a delicate creamy flavour and a soft,\n<br>spongy texture.\n<br>Made with pasteurised milk and vegetarian rennet.&nbsp;<br>",
+          "caption2": "Made from Guernsey Cows' milk providing a stunning\ngolden colour! <br>This cheese is mild with a delicate creamy flavour and a soft,\n<br>spongy texture.\n<br>Made with pasteurised milk and vegetarian rennet.&nbsp;<br>",
           "title3": "MINI MORN DEW",
           "subtitle3": "INFORMATION",
           "caption3": "As the name suggests, a smaller version of our delightful Morn Dew",
           "title4": "SOMERSET SOLSTICE",
           "subtitle4": "INFORMATION",
-          "caption4": "Description",
+          "caption4": "This is one of our favourite cheeses, made from Guernsey cows' milk which we source from a neighbouring farm.\n<br>\n<br>The milk gives the cheese a golden hue and creamy flavour, similar in style to something you might find\nin the Champagne region of France.\n<br><br>Washed in Somerset Cider Brandy it has a very&nbsp;easy and creamy nature.\n<br>Made with pasteurised milk and vegetarian rennet.",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -5921,10 +5921,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -8239,7 +8239,7 @@
           },
           "title1": "WHITE WOOD\n",
           "subtitle1": "INFORMATION",
-          "caption1": "This lactic goat’s cheese log has a soft, white, silky, bloomy rind, providing a hint of mushroom flavours to come through the tangy,\tsmooth paste.\nMade with unpasteurised milk and vegetarian rennet.&nbsp;<br>",
+          "caption1": "This lactic goat’s cheese log has a soft, white, silky, bloomy rind, providing a hint of mushroom flavours to come through the tangy,\tsmooth paste.\n<br>Made with unpasteurised milk and vegetarian rennet.&nbsp;<br>",
           "title2": "EVE",
           "subtitle2": "INFORMATION",
           "caption2": "This is a soft goat’s cheese washed in Somerset Cider Brandy\n<br>and wrapped in a vine leaf, which helps to maintain\na softer paste and <br>develop nuttier flavours.\n<br>Made with unpasteurised milk and vegetarian rennet.&nbsp;<br>",
@@ -8567,10 +8567,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.85rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
