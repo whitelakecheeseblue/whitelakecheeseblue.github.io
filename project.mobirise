@@ -1094,10 +1094,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1190,30 +1190,6 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0114-rachels-1000x669.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0114-rachels-1000x669-800x535.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/rachels-1000x714.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rachels-1000x714-800x543.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
               }
             ]
           },
@@ -7111,10 +7087,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -8155,7 +8131,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page8.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE INFORMATION</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"RACHEL.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE INFORMATION</a>",
           "button2": "<a data-app-btn=\"true\" href=\"KATHERINE.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE INFORMATION</a>",
           "button3": "<a data-app-btn=\"true\" href=\"TRICKLE.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE INFORMATION</a>",
           "button4": "<a data-app-btn=\"true\" href=\"LILLY-LITTLE-LILLY.html\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE INFORMATION</a>",
