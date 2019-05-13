@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WhiteLakeBlue",
-    "currentPage": "COW-CHEESES.html",
+    "currentPage": "GOATS-CHEESES.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -1094,10 +1094,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.85rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2142,10 +2142,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -8059,9 +8059,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "page8.html",
+              "link": "RACHEL.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -8434,9 +8435,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "WHITE-HEART .html",
+              "link": "page26.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -8445,9 +8447,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "WHITE-NANCY-LONG-BOW .html",
+              "link": "page25.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -8456,9 +8459,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "WHITE-NANCY-LONG-BOW .html",
+              "link": "page24.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
