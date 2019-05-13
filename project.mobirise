@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WhiteLakeBlue",
-    "currentPage": "GOATS-CHEESES.html",
+    "currentPage": "page25.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -3611,10 +3611,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
