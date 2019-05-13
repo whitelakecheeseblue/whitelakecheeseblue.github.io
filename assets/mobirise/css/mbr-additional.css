@@ -1744,11 +1744,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-3j .link {
-  font-size: 0.7rem;
+  font-size: 0.8rem;
 }
 #ext_menu-3j .dropdown-item,
 #ext_menu-3j .nav-dropdown-sm .link {
-  font-size: 0.758rem;
+  font-size: 0.866rem;
 }
 #ext_menu-3j .link:hover,
 #ext_menu-3j .dropdown-item:hover,
@@ -1845,11 +1845,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-3o .link {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
 }
 #ext_menu-3o .dropdown-item,
 #ext_menu-3o .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.866rem;
 }
 #ext_menu-3o .link:hover,
 #ext_menu-3o .dropdown-item:hover,
@@ -3207,7 +3207,19 @@ h6,
 #ext_menu-48 A {
   font-size: 12px;
 }
-#content1-4a P {
+#features4-5i .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-5i .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#features4-5i P {
+  text-align: center;
+  color: #ffffff;
+}
+#features4-5i H4 {
+  text-align: center;
   color: #ffffff;
 }
 #contacts4-4b UL {

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WhiteLakeBlue",
-    "currentPage": "COW-CHEESES.html",
+    "currentPage": "SHEEP-CHEESES.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.8",
-    "uniqCompNum": 198,
+    "uniqCompNum": 193,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -3787,7 +3787,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "WHITE HEART ",
-        "order": 19
+        "order": 20
       },
       "components": [
         {
@@ -4184,7 +4184,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "WHITE NANCY / LONG BOW ",
-        "order": 20
+        "order": 21
       },
       "components": [
         {
@@ -4581,7 +4581,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "SHEEP CHEESES",
-        "order": 21
+        "order": 22
       },
       "components": [
         {
@@ -4647,7 +4647,7 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "SHEEP-CHEESES.html",
+              "link": "SHEEP-RUSTLER .html",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -4659,9 +4659,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "SHEEP-RUSTLER .html",
+              "link": "page28.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -4670,9 +4671,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "page29.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media5": {
@@ -4761,9 +4763,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "PAVÉ-COBBLE.html",
+              "link": "page30.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -4784,9 +4787,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "SHEEP-RUSTLER .html",
+              "link": "page31.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -4795,9 +4799,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "page32.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media5": {
@@ -5020,7 +5025,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "PAVÉ COBBLE",
-        "order": 22
+        "order": 23
       },
       "components": [
         {
@@ -5082,10 +5087,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.7rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.758rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -5325,7 +5330,7 @@
           "caption1": "Milk : Sheep\n<br>Unpateurised : Yes (Thermised)\n<br>Rennet : Vegetarian\n<br>Style : Soft\n<br>Weight : 200g\n<br>Origin: Somerset<br>",
           "title2": "Awards",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<br>2017 - British Cheese Awards Supreme Champion,\n<br>Best Fresh Cheese, Best English Cheese &amp; Best Specialist Cheese Maker<br>",
+          "caption2": "2017 - British Cheese Awards Supreme Champion,\n<br>Best Fresh Cheese, Best English Cheese &amp; Best Specialist Cheese Maker<br>",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -5417,7 +5422,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "LITTLE SHE ",
-        "order": 23
+        "order": 24
       },
       "components": [
         {
@@ -5479,10 +5484,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -5569,8 +5574,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0106-rachels-1000x670-800x536.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -5581,8 +5586,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/dsc-0114-rachels-1000x669.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-0114-rachels-1000x669-800x535.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -5593,8 +5598,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/rachels-1000x714.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rachels-1000x714-800x543.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -5814,7 +5819,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "SHEEP RUSTLER ",
-        "order": 24
+        "order": 25
       },
       "components": [
         {
@@ -6211,7 +6216,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "COW CHEESES",
-        "order": 30
+        "order": 31
       },
       "components": [
         {
@@ -6526,7 +6531,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "BAGBOROUGH BRIE",
-        "order": 18
+        "order": 19
       },
       "components": [
         {
@@ -6923,7 +6928,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "MORN DEW ",
-        "order": 32
+        "order": 33
       },
       "components": [
         {
@@ -10089,7 +10094,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "MICHAELS MOUNT",
-        "order": 17
+        "order": 18
       },
       "components": [
         {
@@ -10486,7 +10491,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "SOMERSET SOLSTICE",
-        "order": 31
+        "order": 32
       },
       "components": [
         {
@@ -10680,22 +10685,141 @@
           "_anchor": "gallery2-49"
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#001550"
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            },
+            "P": {
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            "H4": {
+              "text-align": "center",
+              "color": "#ffffff"
+            }
           },
-          "text": "<p><b>Product Information\n</b></p><p>Milk : Cow, Guernsey \n</p><p>Unpateurised : No (Pasteurised) \n</p><p>Rennet : Vegetarian \n</p><p>Style : Soft \n</p><p>Weight : 220g \n</p><p>Origin: Somerset</p>",
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#001550",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title1": "Product Information",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Milk : Cow, Guernsey\n<br>Unpateurised : No (Pasteurised)\n<br>Rennet : Vegetarian\n<br>Style : Soft\n<br>Weight : 220g\n<br>Origin: Somerset",
+          "title2": "Awards",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">Back</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-4a",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "_name": "features4",
+          "_anchor": "features4-5i"
         },
         {
           "_params": {
@@ -10764,7 +10888,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "ENGLISH PECORINO",
-        "order": 25
+        "order": 26
       },
       "components": [
         {
@@ -11161,7 +11285,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "BURROW MUMP",
-        "order": 26
+        "order": 27
       },
       "components": [
         {
@@ -11558,7 +11682,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "SHEEP CURD",
-        "order": 29
+        "order": 30
       },
       "components": [
         {
@@ -11955,7 +12079,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "FETISH",
-        "order": 27
+        "order": 28
       },
       "components": [
         {
@@ -12352,7 +12476,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "15KG SHEEP",
-        "order": 28
+        "order": 29
       },
       "components": [
         {
