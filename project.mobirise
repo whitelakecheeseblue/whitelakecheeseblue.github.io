@@ -33,8 +33,8 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.8",
-    "uniqCompNum": 194,
-    "versionPublish": "4.9.5",
+    "uniqCompNum": 195,
+    "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
@@ -392,66 +392,44 @@
       },
       "components": [
         {
-          "_inherit": "msg-box5",
           "_styles": {
-            ".mbr-section-title, .lead p": {
+            ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title DIV": {
+              "text-align": "left"
+            },
+            ".lead P": {
+              "text-align": "left"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "48",
-            "paddingTop": "3",
-            "paddingBottom": "1",
+            "showButton": false,
+            "paddingTop": "4",
+            "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/driftwood-beach-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#c1c1c1",
+            "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.6"
+            "overlayColor": "#222",
+            "overlayOpacity": "0.1"
           },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/3-1-661x821.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://youtu.be/9yhJOR1elaU",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "linkInNewWindow": false,
-              "name": "shopping-bag",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 250,
-              "active": true,
-              "color": "#ffffff"
-            }
-          },
-          "title": "<br>WHERE TO BUY OUR CHEESE....",
-          "text": "Please use the map below to locate your nearest stockist of our award winning cheeses.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>",
+          "title": "\n<div><br></div><div>WHERE TO BUY OUR CHEESE....</div>",
+          "text": "<p><i><b>Please use the map below to locate your nearest &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b></i><i style=\"font-size: 1.07rem;\"><b>stockist of our award winning cheeses.&nbsp;</b></i></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box7",
-          "_anchor": "msg-box7-1v"
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-5e"
         },
         {
           "_params": {

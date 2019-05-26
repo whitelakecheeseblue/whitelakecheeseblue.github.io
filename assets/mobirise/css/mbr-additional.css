@@ -522,9 +522,15 @@ h6,
 #contacts4-2 STRONG {
   color: #ffffff;
 }
-#msg-box7-1v .mbr-section-title,
-#msg-box7-1v .lead p {
+#msg-box8-5e .mbr-section-title,
+#msg-box8-5e p {
   color: #fff;
+}
+#msg-box8-5e .mbr-section-title DIV {
+  text-align: left;
+}
+#msg-box8-5e .lead P {
+  text-align: left;
 }
 #ext_menu-i .hide-buttons .nav-btn {
   display: none !important;
