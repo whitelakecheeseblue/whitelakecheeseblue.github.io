@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WhiteLakeBlue",
-    "currentPage": "Stockists.html",
+    "currentPage": "About-Us.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.8",
-    "uniqCompNum": 200,
+    "uniqCompNum": 204,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -8194,6 +8194,61 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "5",
+            "paddingBottom": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/TFytTsb-QCE?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/embed/TFytTsb-QCE?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-5n"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#001550"
+          },
+          "text": "<p>White Lake’s home is set at Bagborough Farm – just off the Glastonbury festival site, in Pylle Somerset. The milk we use to create our wonderful goat cheeses is provided by Roger’s own beloved herd – a mix of Toggenburg, British Alpine and Saanen goats. Roger and the team take great care to ensure our four-legged suppliers are as happy as can be – they are fed a specially adapted diet, ideal for cheesemaking, and graze outdoors at Bagborough Farm as much as possible. A local Guernsey herd provide our cows’ milk and our sheeps’ milk comes from a flock also located just down the road. The result is minimal food miles, support for our Somerset neighbours, and truly exceptional cheese!\n</p><p>White Lake’s large cheesemaking facility has been specially tailored for lots of small batches, thus enabling us to produce many different types of cheese at a time. In 2014, we expanded our operation with a new building to complement our existing structure. We now have double the space to help us manage increased production – we currently process around 12,000 litres of milk a week, which results in a whopping tonne and a half of cheese!\n</p><p>Looking to the future, we want to make sure that our cheesemaking is sustainable, both for ourselves and for the environment. Just like any business, with great cheesemaking, comes great responsibility! There are already solar panels in place on the farm, and we are set to install a 200 KW wood boiler. In the next few years, we hope to begin growing our own fuel – so White Lake’s delicious range of cheeses can be enjoyed for centuries to come.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-z",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
           "_inherit": "gallery1",
           "_params": {
             "showBullets": true,
@@ -8266,21 +8321,27 @@
         },
         {
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#001550"
+            "showText": false
           },
-          "text": "<p>White Lake’s home is set at Bagborough Farm – just off the Glastonbury festival site, in Pylle Somerset. The milk we use to create our wonderful goat cheeses is provided by Roger’s own beloved herd – a mix of Toggenburg, British Alpine and Saanen goats. Roger and the team take great care to ensure our four-legged suppliers are as happy as can be – they are fed a specially adapted diet, ideal for cheesemaking, and graze outdoors at Bagborough Farm as much as possible. A local Guernsey herd provide our cows’ milk and our sheeps’ milk comes from a flock also located just down the road. The result is minimal food miles, support for our Somerset neighbours, and truly exceptional cheese!\n</p><p>White Lake’s large cheesemaking facility has been specially tailored for lots of small batches, thus enabling us to produce many different types of cheese at a time. In 2014, we expanded our operation with a new building to complement our existing structure. We now have double the space to help us manage increased production – we currently process around 12,000 litres of milk a week, which results in a whopping tonne and a half of cheese!\n</p><p>Looking to the future, we want to make sure that our cheesemaking is sustainable, both for ourselves and for the environment. Just like any business, with great cheesemaking, comes great responsibility! There are already solar panels in place on the farm, and we are set to install a 200 KW wood boiler. In the next few years, we hope to begin growing our own fuel – so White Lake’s delicious range of cheeses can be enjoyed for centuries to come.</p>",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/img-9006-2-1400x933.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-z",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "_name": "image1",
+          "_anchor": "image1-5l"
         },
         {
           "_params": {
