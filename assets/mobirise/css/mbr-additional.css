@@ -2325,15 +2325,9 @@ h6,
 #contacts4-4g STRONG {
   color: #ffffff;
 }
-#header3-17 .mbr-section-title,
-#header3-17 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-17 .mbr-section-title {
-  color: #ffffff;
-}
-#header3-17 .mbr-section-subtitle {
-  color: #ffffff;
+#msg-box8-5o .mbr-section-title,
+#msg-box8-5o p {
+  color: #fff;
 }
 #ext_menu-10 .hide-buttons .nav-btn {
   display: none !important;
@@ -2404,10 +2398,6 @@ h6,
 }
 #ext_menu-10 A {
   font-size: 12px;
-}
-#msg-box7-16 .mbr-section-title,
-#msg-box7-16 .lead p {
-  color: #fff;
 }
 #content1-13 P {
   color: #ffffff;
