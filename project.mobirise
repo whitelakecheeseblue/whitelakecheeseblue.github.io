@@ -162,7 +162,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/west-lake-cheese-3450-2000x1335.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -171,13 +171,13 @@
                 "title": "<br>Award Winning Cheese",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b><br>Supreme Champions at<br>The British Cheese Awards 2017 &amp; 2018 and Winners of 'Best Goats Cheese' at the <br>World Cheese Awards 2017/18</b>",
+                "text": "<br><span style=\"font-style: normal;\">Supreme Champions at<br>The British Cheese Awards 2017 &amp; 2018 and Winners of 'Best Goats Cheese' at the World Cheese Awards 2017/18</span>",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GOAT CHEESES </a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">COW CHEESES </a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SHEEP CHEESES </a>",
-                "overlayOpacity": "0.4"
+                "overlayOpacity": "0.5"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/whitelakeservingsuggestions-4191-2000x2500.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -186,7 +186,7 @@
                 "title": "VIDEO SLIDE",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<b><br><br>Based in the heart of the Cheddar Country, White Lake Cheese was established in 2004 by Peter Humphries and Roger Longman.&nbsp;</b>",
+                "text": "<br><br><span style=\"font-style: normal;\">Based in the heart of the Cheddar Country, White Lake Cheese was established in 2004 by Peter Humphries and Roger Longman.&nbsp;</span>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.3"
               },
@@ -201,9 +201,9 @@
                 "title": "Winners of \r<div>The British Cheese Awards 2017 &amp; 2018</div>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<br><br><b>Over a decade later, we are famed for our extraordinary range of award winning goats’, sheeps’ and cows’ milk cheeses.</b>",
+                "text": "<span style=\"font-style: normal;\"><br><br>Over a decade later, we are famed for our extraordinary range of award winning goats’, sheeps’ and cows’ milk cheeses.</span>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.2",
+                "overlayOpacity": "0.3",
                 "overlayColor": "#000000"
               }
             ]
@@ -220,8 +220,8 @@
             },
             "H2": {
               "text-align": "center",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "60px"
             },
             "P": {
@@ -231,6 +231,14 @@
             "I": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "B": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "SPAN": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           }
         },
