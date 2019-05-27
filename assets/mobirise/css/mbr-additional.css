@@ -5,6 +5,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -493,6 +494,8 @@ h6,
 }
 #slider-5p H2 {
   text-align: center;
+  font-family: 'Lora', serif;
+  font-size: 60px;
 }
 #slider-5p P {
   font-size: 36px;

@@ -168,10 +168,10 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<i><br></i><br><i>Award Winning Cheese</i>",
+                "title": "<br>Award Winning Cheese",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Supreme Champions at<br>The British Cheese Awards 2017 &amp; 2018 and Winners of 'Best Goats Cheese' at the <br>World Cheese Awards 2017/18",
+                "text": "<b><br>Supreme Champions at<br>The British Cheese Awards 2017 &amp; 2018 and Winners of 'Best Goats Cheese' at the <br>World Cheese Awards 2017/18</b>",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GOAT CHEESES </a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">COW CHEESES </a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SHEEP CHEESES </a>",
                 "overlayOpacity": "0.4"
               },
@@ -186,7 +186,7 @@
                 "title": "VIDEO SLIDE",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<br><br>Based in the heart of the Cheddar Country, White Lake Cheese was established in 2004 by Peter Humphries and Roger Longman.&nbsp;",
+                "text": "<b><br><br>Based in the heart of the Cheddar Country, White Lake Cheese was established in 2004 by Peter Humphries and Roger Longman.&nbsp;</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.3"
               },
@@ -201,7 +201,7 @@
                 "title": "Winners of \r<div>The British Cheese Awards 2017 &amp; 2018</div>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "<br><br>Over a decade later, we are famed for our extraordinary range of award winning goats’, sheeps’ and cows’ milk cheeses.",
+                "text": "<br><br><b>Over a decade later, we are famed for our extraordinary range of award winning goats’, sheeps’ and cows’ milk cheeses.</b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.2",
                 "overlayColor": "#000000"
@@ -219,7 +219,10 @@
               "text-align": "center"
             },
             "H2": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "60px"
             },
             "P": {
               "font-size": "36px",
