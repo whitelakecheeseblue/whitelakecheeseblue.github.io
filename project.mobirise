@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WhiteLakeBlue",
-    "currentPage": "index.html",
+    "currentPage": "Stockists.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -471,12 +471,12 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": "0.1"
+            "overlayOpacity": "0.2"
           },
           "title": "\n<div><br></div><div>WHERE TO BUY OUR CHEESE....</div>",
-          "text": "<p><i><b>Please use the map below to locate your nearest &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b></i><i style=\"font-size: 1.07rem;\"><b>stockist of our award winning cheeses.&nbsp;</b></i></p>",
+          "text": "<p><i><b>Please use the map below to locate your nearest</b></i><i style=\"font-size: 1.07rem;\"><b>&nbsp;&nbsp;</b></i><i style=\"font-size: 1.07rem;\"><b>stockist&nbsp;</b></i></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
