@@ -1,6 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -492,6 +493,13 @@ h6,
 }
 #slider-5p H2 {
   text-align: center;
+}
+#slider-5p P {
+  font-size: 36px;
+  color: #ffffff;
+}
+#slider-5p I {
+  font-family: 'Lora', serif;
 }
 #header3-19 .mbr-section-title,
 #header3-19 .mbr-section-subtitle {
