@@ -165,7 +165,7 @@
                 "active": true,
                 "showButtons": false,
                 "showText": true,
-                "showTitle": false,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "<i><br></i><br><i>Award Winning Cheese</i>",
