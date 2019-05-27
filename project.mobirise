@@ -158,7 +158,7 @@
             "paddingBottom": 3,
             "showBullets": false,
             "bgColor": "#fff",
-            "timeout": "5",
+            "timeout": "6",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/west-lake-cheese-3450-2000x1335.jpg",
