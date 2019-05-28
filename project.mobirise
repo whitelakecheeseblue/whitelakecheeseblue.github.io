@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WhiteLakeBlue",
-    "currentPage": "Stockists.html",
+    "currentPage": "GOATS-CHEESES.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -161,7 +161,7 @@
             "timeout": "6",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/west-lake-cheese-3450-2000x1335.jpg",
+                "image": "@PROJECT_PATH@/assets/images/west-lake-cheese-3499-2000x1600.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -173,10 +173,10 @@
                 "contentAlign": "center",
                 "text": "<br><span style=\"font-style: normal;\">Supreme Champions at<br>The British Cheese Awards 2017 &amp; 2018 and Winners of 'Best Goats Cheese' at the World Cheese Awards 2017/18</span>",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GOAT CHEESES </a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">COW CHEESES </a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SHEEP CHEESES </a>",
-                "overlayOpacity": "0.5"
+                "overlayOpacity": "0.4"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/whitelakeservingsuggestions-4191-2000x2500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rachel-toast-2000x2996.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
@@ -191,7 +191,7 @@
                 "overlayOpacity": "0.3"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/whitelakeservingsuggestions-3931-2000x2996.jpg",
+                "image": "@PROJECT_PATH@/assets/images/whitelakeservingsuggestions-3921-2000x2996.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": true,
@@ -9144,16 +9144,16 @@
           },
           "title1": "MICHAEL'S MOUNT",
           "subtitle1": "INFORMATION",
-          "caption1": "<p>Made with rich raw goat’s milk, a lactic cheese\n<br>with a delicately fresh flavour when young,\n<br>becoming more robust with age.<span style=\"background-color: initial; font-size: 1rem;\"><br></span></p><p><span style=\"background-color: initial; font-size: 1rem;\">Made with Raw&nbsp;</span><span style=\"background-color: initial; font-size: 1rem;\">milk and vegetarian rennet.&nbsp;</span><br></p>",
+          "caption1": "<p>Made with rich raw goat’s milk, a lactic cheese\nwith a delicately fresh flavour when young,\nbecoming more&nbsp;<span style=\"background-color: initial; font-size: 1rem;\">robust&nbsp;</span><span style=\"background-color: initial; font-size: 1rem;\">with age.</span></p><p><span style=\"background-color: initial; font-size: 1rem;\">Made with Raw&nbsp;</span><span style=\"background-color: initial; font-size: 1rem;\">milk and vegetarian rennet.&nbsp;</span><br></p>",
           "title2": "STITCH IN THYME",
           "subtitle2": "INFORMATION",
-          "caption2": "A White Wood rolled in Thyme.\n<br>The thyme compliments the flavour of the cheese,\n<br>giving it a zesty lift.<br>Made with unpasteurised milk and vegetarian rennet.<b><br></b>",
+          "caption2": "A White Wood rolled in Thyme.\n<br>The thyme compliments the flavour of the cheese,\ngiving it a zesty lift.<br>Made with unpasteurised milk and vegetarian rennet.<b><br></b>",
           "title3": "LAVENDER HILL LOG",
           "subtitle3": "INFORMATION",
           "caption3": "Our popular White Wood with a twist.&nbsp;<br>Being lightly rolled in Lavender the subtle taste matches the cheese\nPerfectly, giving the flavour an <br>extra dimension.\n<br>Made with unpasteurised milk and vegetarian rennet.<br>",
           "title4": "RACHAEL RESERVE",
           "subtitle4": "INFORMATION",
-          "caption4": "Coming Soon",
+          "caption4": "Based on our ever popular Rachel, Rachael Reserve is aged on for a minimum of 12 months for a fuller, more fruity flavour.<br><br>All of 2019's stock has been sold, so reserve your 2020 cheese now!<br><br>Made with unpasteurised milk and vegetarian rennet.<br>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
